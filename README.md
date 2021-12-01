@@ -1,6 +1,6 @@
 # Screen 02
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=elydev01.screen02">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=elydev01.screen-02">
 
 ![](assets/screen.gif)
 
